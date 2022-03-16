@@ -4,7 +4,6 @@
 |사용할 공간|레파지토리 만들기|
 |:-:|:-:|
 |<img src ="https://user-images.githubusercontent.com/93961708/158676466-fce8c387-cad9-4439-97de-7f0fe8b123fb.png"/>|<img src="https://user-images.githubusercontent.com/93961708/158676514-d6737bb7-acf5-47c6-b59f-e229cbc34370.png"/>
-
 <br/>
 
 # 1단계 레파지토리 생성
@@ -33,13 +32,11 @@
 <br/>git remote add orgin 주소 : 내가 연결 시킬 주소
 <br/>git push origin master : 주소에다가 푸시 한다 라고 지금은 간단하게만 알아주세요.
 <br/><img src="https://user-images.githubusercontent.com/93961708/158676352-e8f88986-d7d9-447e-8e01-334f246f1e29.png"/>
-
 <br/>
 
 # 2단계_2 레파지토리랑 연결시키기
 
 <br/>
-
 이제 용어를 알았으니 사용해야겠죠? 이제 어떤 도구로 사용해도좋은데 전 개인적으로 "VSCode"로 하고있습니다.
 <br/>사실 "Visual studio"는 관리하기가 힘들어요.. 저도 하다가 못해서 강제로 하고있습니다 ㅠㅠ
 <br/>그래서 만약에 Visual studio로하실분은 스스로찾아서 해보셔야할듯합니다.. 아시는분 저한테알려주세요..
@@ -73,7 +70,6 @@
 <br/>즉 내위를 이동해줘! 라는 건 "cd" 라는 명령어고 내가 폴더를 생성해서
 <br/>만약에 현 위치가 "내가 만든 폴더 위치이다" 이러면 이제부터 시작입니다.
 <br/>노란색 마지막에있는 이름이 내가생성한 폴더 이름이랑 같다면 상관없다는 말입니다! 이건 자세히 다루겠습니다
-
 <br/>
 
 # 3단계 푸시 단계
