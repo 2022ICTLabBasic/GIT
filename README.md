@@ -31,7 +31,7 @@
 <br/>git add readme.md : 내가 올릴 자료
 <br/>git commit -m "first commit" : 내가 올릴 자료에대한 내용
 <br/>git remote add orgin 주소 : 내가 연결 시킬 주소
-git push origin master : 주소에다가 푸시 한다 라고 지금은 간단하게만 알아주세요.
+<br/>git push origin master : 주소에다가 푸시 한다 라고 지금은 간단하게만 알아주세요.
 <br/><img src="https://user-images.githubusercontent.com/93961708/158676352-e8f88986-d7d9-447e-8e01-334f246f1e29.png"/>
 
 <br/>
