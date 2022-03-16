@@ -87,7 +87,7 @@
 <img src="https://user-images.githubusercontent.com/93961708/158677156-61648a66-cdc2-4c24-8fb9-2d122494c43f.png"/>
 <br/>이런식으로해서 "만약 아무말도안뜨면 성공"입니다.
 <br/>그다음 커밋 이라고하는데 제목설정이라고생각하시면됩니다.!!이건 꼭해줘야해요!!
-<br/>git commit -m "제목" 이런식으로하시면<img src="https://user-images.githubusercontent.com/93961708/158677305-7f5784f0-5241-4b81-8675-04e54ec374ac.png"/>
+git commit -m "제목" 이런식으로하시면<img src="https://user-images.githubusercontent.com/93961708/158677305-7f5784f0-5241-4b81-8675-04e54ec374ac.png"/>
 <br/>이렇게 뜨시면 성공입니다.
 <br/>이제 내가 아까만든 주소랑 연결해야됩니다. 다시 아까 "레파지토리" 만든 창으로 가보시면
 <br/><img src="https://user-images.githubusercontent.com/93961708/158677412-c83eb1d0-3de1-4eef-94d0-a108b5ac5cd6.png"/>
