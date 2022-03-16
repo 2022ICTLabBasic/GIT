@@ -53,11 +53,11 @@
 <br/>
 이제 Vscode를 키시면 저와 유사할겁니다
 <br/><img src="https://user-images.githubusercontent.com/93961708/158676570-9fb48be0-e32f-4fe6-bf4b-009d343a6eee.png"/>
-<br/>이제 파일을 깃에다가 올릴건데 여기 보이시는 터미널에 새 터미널 클릭
+이제 파일을 깃에다가 올릴건데 여기 보이시는 터미널에 새 터미널 클릭
 <br/><img src="https://user-images.githubusercontent.com/93961708/158676651-82627468-135d-4c22-b083-9798b18912ab.png"/>
-<br/>하시면 이런식으로 나오는데 "+" 기호 오른쪽 밑 화살표에 "GitBash"라고있습니다
+하시면 이런식으로 나오는데 "+" 기호 오른쪽 밑 화살표에 "GitBash"라고있습니다
 <br/><img src="https://user-images.githubusercontent.com/93961708/158676758-7628bd7c-b6a9-4bf0-93d9-00a4b92cd9a1.png"/>
-<br/>밑과 같이
+밑과 같이
 <br/><img src="https://user-images.githubusercontent.com/93961708/158676837-79b5fcd1-dcfb-4b7d-b845-a4b13da4435e.png"/>
 
 <br/>이제 "GitBash" 눌러주시면
