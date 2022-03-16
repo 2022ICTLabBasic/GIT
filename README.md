@@ -3,8 +3,7 @@
 <br/>오른쪽:"레파지토리" 만들공간 즉, 쉽게생각해서 "자료를 올릴 공간을 만든다"라는 정도로 생각하시면되겠습니다.
 |사용할 공간|레파지토리 만들기|
 |:-:|:-:|
-|<img src ="https://user-images.githubusercontent.com/93961708/158676466-fce8c387-cad9-4439-97de-7f0fe8b123fb.png"/>
-|<img src="https://user-images.githubusercontent.com/93961708/158676514-d6737bb7-acf5-47c6-b59f-e229cbc34370.png"/>
+|<img src ="https://user-images.githubusercontent.com/93961708/158676466-fce8c387-cad9-4439-97de-7f0fe8b123fb.png"/>|<img src="https://user-images.githubusercontent.com/93961708/158676514-d6737bb7-acf5-47c6-b59f-e229cbc34370.png"/>
 
 <br/>
 
