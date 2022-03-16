@@ -97,7 +97,7 @@ git commit -m "제목" 이런식으로하시면<img src="https://user-images.git
 <br/>그리고나서 "git remote -v" 쳐서 레파지토리 만든 주소랑 같다면 성공하신겁니다!
 <br/>이제 정말로 푸시만하면되겠네요.
 <br/>명령어는 "git push origin master" 라고 하시면 푸시가되서 이런식으로 올라가신걸 확인할수있습니다.
-<br/><img src="!https://user-images.githubusercontent.com/93961708/158677585-4ae3c2e5-fc7e-42f9-94c9-2c8c6babaa31.png"/>
+<br/><img src="https://user-images.githubusercontent.com/93961708/158677585-4ae3c2e5-fc7e-42f9-94c9-2c8c6babaa31.png"/>
 <br/>이제 부터는 연결시키는거 제외 즉, "git remote" 이부분은 빼고 사용하시면됩니다!
 
 
