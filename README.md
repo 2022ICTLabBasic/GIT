@@ -85,10 +85,10 @@
 <img src="https://user-images.githubusercontent.com/93961708/158677068-bbcefdf2-9158-4745-ad35-87664dc54d5b.png"/>와 같이 뜨면 git이 잘설치 되었다는걸 볼수있습니다.
 <br/>이제 내가 올릴 파일 더해줄겁니다 이제 "git add 파일이름"
 <img src="https://user-images.githubusercontent.com/93961708/158677156-61648a66-cdc2-4c24-8fb9-2d122494c43f.png"/>
-<br/>이런식으로해서 "만약 아무말도안뜨면 성공"입니다.
+이런식으로해서 "만약 아무말도안뜨면 성공"입니다.
 <br/>그다음 커밋 이라고하는데 제목설정이라고생각하시면됩니다.!!이건 꼭해줘야해요!!
 git commit -m "제목" 이런식으로하시면<img src="https://user-images.githubusercontent.com/93961708/158677305-7f5784f0-5241-4b81-8675-04e54ec374ac.png"/>
-<br/>이렇게 뜨시면 성공입니다.
+이렇게 뜨시면 성공입니다.
 <br/>이제 내가 아까만든 주소랑 연결해야됩니다. 다시 아까 "레파지토리" 만든 창으로 가보시면
 <br/><img src="https://user-images.githubusercontent.com/93961708/158677412-c83eb1d0-3de1-4eef-94d0-a108b5ac5cd6.png"/>
 여기있는 글 다 쭉 땡겨서 복사후
